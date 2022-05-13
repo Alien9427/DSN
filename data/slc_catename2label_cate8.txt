@@ -1,0 +1,9 @@
+catename,label
+forest,0
+industrialbuilding,1
+residential,2
+skyscraper,3
+water,4
+storagetank,5
+container,6
+agriculture,7
